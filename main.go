@@ -1,1 +1,4 @@
-Func main()
+package main()
+
+
+Func main(){}
